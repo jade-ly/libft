@@ -6,16 +6,14 @@
 /*   By: yliao <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/01 11:11:15 by yliao             #+#    #+#             */
-/*   Updated: 2022/03/14 18:23:34 by yliao            ###   ########.fr       */
+/*   Updated: 2022/03/14 19:30:47 by yliao            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
 # include <stdarg.h>
-# include <unistd.h>
 # include <stdint.h>
-# include <stdlib.h>
 # include "libft.h"
 
 int		ft_printf(const char *str, ...);

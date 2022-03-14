@@ -6,11 +6,10 @@
 /*   By: yliao <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/14 15:29:21 by yliao             #+#    #+#             */
-/*   Updated: 2022/01/14 16:39:27 by yliao            ###   ########.fr       */
+/*   Updated: 2022/03/14 19:27:39 by yliao            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
 #include "libft.h"
 
 char	*ft_strtrim(char const *s1, char const *set)

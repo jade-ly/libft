@@ -6,11 +6,10 @@
 /*   By: yliao <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/21 14:08:44 by yliao             #+#    #+#             */
-/*   Updated: 2022/01/21 17:12:44 by yliao            ###   ########.fr       */
+/*   Updated: 2022/03/14 19:23:27 by yliao            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
 #include "libft.h"
 
 t_list	*ft_lstmap(t_list *lst, void *(*f)(void *), void (*del)(void *))

@@ -6,11 +6,10 @@
 /*   By: yliao <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/14 16:41:09 by yliao             #+#    #+#             */
-/*   Updated: 2022/01/21 17:03:48 by yliao            ###   ########.fr       */
+/*   Updated: 2022/03/14 19:25:44 by yliao            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
 #include "libft.h"
 
 size_t	ft_count_words(const char	*s, char c)

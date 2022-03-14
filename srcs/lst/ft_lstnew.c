@@ -6,11 +6,10 @@
 /*   By: yliao <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/21 11:30:10 by yliao             #+#    #+#             */
-/*   Updated: 2022/01/21 17:10:57 by yliao            ###   ########.fr       */
+/*   Updated: 2022/03/14 19:23:37 by yliao            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
 #include "libft.h"
 
 t_list	*ft_lstnew(void *content)

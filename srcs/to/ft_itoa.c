@@ -6,13 +6,11 @@
 /*   By: yliao <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/15 16:10:10 by yliao             #+#    #+#             */
-/*   Updated: 2022/01/27 19:51:11 by yliao            ###   ########.fr       */
+/*   Updated: 2022/03/14 19:28:26 by yliao            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
 #include "libft.h"
-#include <stdio.h>
 
 size_t	ft_count_digits(int n)
 {

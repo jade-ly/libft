@@ -6,12 +6,11 @@
 /*   By: yliao <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/28 12:27:06 by yliao             #+#    #+#             */
-/*   Updated: 2022/02/03 18:16:05 by yliao            ###   ########.fr       */
+/*   Updated: 2022/03/14 19:20:23 by yliao            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "get_next_line.h"
-#include <stdio.h>
 
 char	*ft_read(int fd, char *stash)
 {

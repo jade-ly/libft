@@ -6,11 +6,10 @@
 /*   By: yliao <marvin@42.fr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/01/13 18:41:51 by yliao             #+#    #+#             */
-/*   Updated: 2022/01/21 16:52:43 by yliao            ###   ########.fr       */
+/*   Updated: 2022/03/14 19:26:05 by yliao            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
 #include "libft.h"
 
 char	*ft_strdup(const char *s)
