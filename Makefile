@@ -6,7 +6,7 @@
 #    By: yliao <marvin@42.fr>                       +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/01/06 18:27:30 by yliao             #+#    #+#              #
-#    Updated: 2022/03/14 18:16:21 by yliao            ###   ########.fr        #
+#    Updated: 2022/03/22 16:34:46 by yliao            ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -23,7 +23,7 @@ OBJS		= $(subst $(DIR_SRCS), $(DIR_OBJS), $(SRCS:.c=.o))
 
 INCLUDES	= -I includes
 
-CC		= clang
+CC		= gcc
 CFLAGS	= -Wall -Wextra -Werror
 RM		= /bin/rm -f
 
